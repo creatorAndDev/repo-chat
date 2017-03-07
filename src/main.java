@@ -4,7 +4,7 @@ import java.net.Socket;
 import java.net.SocketAddress;
 import java.util.ArrayList;
 
-public class main {
+public class Main {
 	public static void main(String[] args) throws IOException {
 		try {
 			//задаем целочисленной переменной имя порта
