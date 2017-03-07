@@ -39,3 +39,5 @@ public class main {
 		}
 	}
 }
+
+//http://www.dreamincode.net/forums/topic/262304-simple-client-and-server-chat-program/
